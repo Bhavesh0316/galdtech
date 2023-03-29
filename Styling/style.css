@@ -1,0 +1,146 @@
+.logo{
+    color: #174087;
+}
+
+
+
+a.show:hover + span.tooltip {
+    opacity:1;
+}
+
+
+.hide {
+    display: none;
+  }
+      
+  .myDIV:hover + .hide {
+    display: block;
+    color:darkslategrey;
+  }
+
+
+li{
+    margin-left: 20px;
+}
+
+.slog{
+    padding-top: 0px !important;
+    /* margin-left: 15rem; */
+}
+.btns{
+    width: 400px;
+}
+
+.srh{
+    width: 31.2rem;
+}
+
+/* .abt{
+    margin-left: 18.75rem;
+} */
+.navigation{
+    margin: 0px auto 0px auto;
+    margin-right: 0px !important;
+}
+.cart{
+    height: 30px;
+    width: 30px;
+    margin-right: 15px;
+}
+
+.cimg{
+    height:600px;
+    position: relative;
+}
+
+.chead{
+    margin: 50px auto 50px auto;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration-color: #174087;
+    font-size: 60px;
+}
+
+.carousel-item{
+    text-align: center;
+
+}
+.clicknav{
+    text-decoration: none;
+    color: azure;
+}
+
+
+.course-cards{
+    background-color: aliceblue;
+    padding: 50px 10px 50px 10px;
+}
+
+
+.cross-l{
+    text-decoration: line-through;
+}
+
+
+
+/* footer */
+
+.footer-basic {
+    padding:40px 0;
+    background-color:#ffffff;
+    color:#4b4c4d;
+  }
+  
+  .footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+  }
+  
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+  .footer-basic ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer-basic ul a:hover {
+    opacity:1;
+  }
+  
+  .footer-basic .social {
+    text-align:center;
+    padding-bottom:25px;
+  }
+  
+  .footer-basic .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+  .footer-basic .social > a:hover {
+    opacity:0.9;
+  }
+  
+  .footer-basic .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color:#aaa;
+    margin-bottom:0;
+  }
